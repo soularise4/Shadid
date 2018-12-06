@@ -1,5 +1,5 @@
 // содержимое файла palindrome.cpp
-#include "stdafx.h"
+#include "stdafx.h" //что то важое
 #include "palindrome.h" //руу
 
 bool palindrome5(int number) // функция нахождения палиндрома пятизначных чисел
